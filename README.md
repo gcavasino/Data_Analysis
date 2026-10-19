@@ -6,7 +6,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-Welcome to my data analytics portfolio. I specialize in translating
+Welcome to my data analysis repo. I specialize in translating
 complex operational, transactional, and performance data into automated
 reporting, performance models, and actionable business insights.
 
